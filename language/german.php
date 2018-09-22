@@ -30,14 +30,14 @@ $german_array = array(
 		3 => 'Jäger',
 	),
 	'races' => array(
-		0 => 'Unknown',
+		0 => 'Unbekannt',
 		1 => 'Mensch',
-		2 => 'Erleuchteter',
+		2 => 'Erwachter',
 		3 => 'Exo',
 	),
 	'lang' => array(
 		'destiny'					=> 'Destiny',
-		'core_sett_fs_gamesettings'	=> 'Destiny Settings',
+		'core_sett_fs_gamesettings'	=> 'Destiny Einstellungen',
 		
 		// Roles
 		'role1'						=> 'Heiler',
